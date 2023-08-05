@@ -1,0 +1,2 @@
+INSERT INTO profile (id, email, status, name, role) VALUES (1, 'dev@gmail.com', 'ACTIVE', 'Trần Phạm Nhật Minh', 'DEVELOPER');
+INSERT INTO profile (id, email, status, name, role) VALUES (2, 'customer@gmail.com', 'ACTIVE', 'Khách hàng', 'CUSTOMER');
