@@ -13,7 +13,7 @@ public class ProfileDTO {
     private Long id;
     private String email;
     private String status;
-    private Double initialBalancce;
+    private Double initialBalance;
     private String name;
     private String role;
 
